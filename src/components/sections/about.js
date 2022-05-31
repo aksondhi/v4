@@ -126,7 +126,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Python', 'JavaScript (ES6+)', 'TypeScript', 'React', 'Neo4j', 'Node.js'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -136,30 +136,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Arun and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
-
-            <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              Over the last three years I’ve been at{' '}
+              <a href="https://gaincompliance.com/" target="_blank" rel="noreferrer">
+                Gain Compliance
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              ushering in new high performance technology while building out new features and
+              providing production support. I love researching and learning, 3D computer vision,
+              leveraging GPU acceleration, and automation at scale.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
