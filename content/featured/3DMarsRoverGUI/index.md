@@ -3,6 +3,7 @@ date: '2'
 title: '3D Mars Rover GUI'
 cover: './demo.png'
 github: 'https://bitbucket.org/aksondhi/mars-rover/src/master/'
+youtube: 'https://youtu.be/ZFUlr4aFOuA'
 tech:
   - Java Simple Serial Communication
   - jMonkeyEngine

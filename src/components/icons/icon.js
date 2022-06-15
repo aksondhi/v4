@@ -8,6 +8,7 @@ import {
   IconFolder,
   IconFork,
   IconGitHub,
+  IconYouTube,
   IconInstagram,
   IconLinkedin,
   IconLoader,
@@ -33,6 +34,8 @@ const Icon = ({ name }) => {
       return <IconFork />;
     case 'GitHub':
       return <IconGitHub />;
+    case 'YouTube':
+      return <IconYouTube />;
     case 'Instagram':
       return <IconInstagram />;
     case 'Linkedin':
